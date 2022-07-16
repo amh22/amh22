@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Drew.
-- I'm a full stack JavaScript engineer with a strong product focus. I enjoy working closely with stakeholders to understand their domain, identify scope, and map out application architecture. I get involved early in domain modelling, UI wireframing and rapid prototyping, testing assumptions and iterating often.
+- I'm a full stack JavaScript engineer with a strong product focus. I enjoy working closely with stakeholders to understand their domain, identify scope, and map out application architecture. I get involved early in domain modelling, UI wireframing and rapid prototyping, testing assumptions and iterating often. I mostly work with React, Gatsby, Nextjs, GraphQL, Node.js, and Solidity.
 
 - 👀 I have a deep interest in blockchain technology and how individuals and enterprises can participate in web3. I'm actively involved in web3 as a both a community member (e.g., a member of the Developer DAO), and a builder. Areas of particular interest are web3 education and community building, DAOs, on-chain identity and verifiable credentials, NFT utility, funding of public goods, decentralised storage, modular blockchain networks, and layer 2 scaling solutions.
 
