@@ -1,15 +1,16 @@
 - 👋 Hi, I’m Drew.
-- I'm a Full Stack / Frontend Engineer with a strong product focus, and a passion for exploring and learning emerging technologies. Experienced in designing complex web apps. Proactive, works closely with Design and Product to collaboratively implement vision via wireframing and rapid prototyping. Practical experience in scoping, and implementing solutions to novel and nuanced UI and UX challenges.
+- I'm a Full Stack / Frontend Focused Engineer with an interest in UI design and blockchain technology. I have experience with product design of complex web apps, from scoping to implementation of solutions to novel and nuanced UI and UX challenges. I work closely with Design and Product to implement vision via wireframing and rapid prototyping. I have an innate drive for continuous learning and I am currently learning Solidity.
 
-- 👀 I have a deep interest in blockchain and AI technology. Areas of particular interest are on-chain identity and verifiable credentials, NFT utility, decentralised storage networks, funding of public goods, and the intersection of blockchain and AI.
-
-- 🌱 I’m currently learning how to store data on the Arweave permaweb using Bundlr and also the Lit protocol for encrypting and decrypting files. I'm also working on an IRL web3 education platform that aims to empower participation in web3 by creating social context for members by connecting them both IRL and on-chain. To do so I am learning how to incorporate verifiable credentials and the Lens protocol to created a trusted community social graph.
+- 👀 I have a deep interest in blockchain and AI technology. I'm actively involved in web3 as both a community member, and a builder. Areas of particular interest are DeFi, on-chain identity and verifiable credentials, NFT utility, decentralised storage networks, funding of public goods, and the intersection of blockchain and AI.
 
 - 💞️ I’m looking to collaborate on web3 and/or AI projects in the areas of interest mentioned above.
 
-- 📫 I can be reached via email at andrew@gramercystudios.com or Twitter @drewzmh
+- 👀 I have recently worked as a senior frontend engineer with ANZ (The Australian and New Zealand Banking Group) Digital Asset Services team on a web app that provides institutional clients with real world asset tokenisation, portfolio, and marketplace services for
+transacting tokenised assets across blockchain networks. For more information on the projects I have worked on please see: https://www.linkedin.com/in/andrew-henry1/
 
-- 👀 Some commercial projects I have worked on can be found at https://www.gramercystudios.com/work/
+- 👀 I have also recently built a dApp for BricktOrigins by Abnormal Studios - a collection of 5 individual NFTs on the Ethereum blockchain celebrating the history, community, and future of Abnormal Studios. For more details: https://www.gramercystudios.com/work/bricktorigins/
+
+- 📫 I can be reached via email at andrew@gramercystudios.com, on X/Twitter @drewzmh, or via LinkedIn (please see link above).
 
 <!---
 amh22/amh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
