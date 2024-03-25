@@ -5,8 +5,10 @@
 
 - 💞️ I’m looking to collaborate on web3 and/or AI projects in the areas of interest mentioned above.
 
-- 👀 I have recently worked as a senior frontend engineer with ANZ (The Australian and New Zealand Banking Group) Digital Asset Services team on a web app that provides institutional clients with real world asset tokenisation, portfolio, and marketplace services for
-transacting tokenised assets across blockchain networks. For more information on the projects I have worked on please see: https://www.linkedin.com/in/andrew-henry1/
+- 👀 My latest project has been the frontend build of a Web3 jobs board with TypeScript, Next.js, and Tailwind CSS utility classes. Algolia search was integrated and used for instant search querying, and for filtering jobs based
+on location, category, type, and years of experience. See: https://web-3.jobs/
+
+- 👀 Recently (Oct 2022 - Jan 2024) I worked as a senior frontend engineer with ANZ (The Australian and New Zealand Banking Group) Digital Asset Services team on a web app that provides institutional clients with real world asset tokenisation, portfolio, and marketplace services for transacting tokenised assets across blockchain networks. For more information on the projects I have worked on please see: https://www.linkedin.com/in/andrew-henry1/
 
 - 👀 I have also recently built a dApp for BricktOrigins by Abnormal Studios - a collection of 5 individual NFTs on the Ethereum blockchain celebrating the history, community, and future of Abnormal Studios. For more details: https://www.gramercystudios.com/work/bricktorigins/
 
