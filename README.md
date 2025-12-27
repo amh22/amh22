@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Drew.
-- I'm a Full Stack / Frontend Focused Engineer with an interest in UI design and blockchain technology. I have experience with product design of complex web apps, from scoping to implementation of solutions to novel and nuanced UI and UX challenges. I work closely with Design and Product to implement vision via wireframing and rapid prototyping. I have an innate drive for continuous learning and I am currently learning Solidity.
+- Full Stack / Frontend Focused Software Engineer designing for human-AI interaction and building AI-native web experiences, with a strong interest in blockchain technology. Experience with product design of complex web apps, from scoping to implementation of solutions to novel and nuanced UI and UX challenges. Works closely with Design and Product to implement vision via rapid prototyping.
+
+- Proficient in AI infrastructure adoption and context engineering. Uses AI for pattern recognition and automation-codifying repetitive tasks into documented workflows that enable autonomous execution to production standards. Approaches AI collaboration through comprehensive documentation and structured methodologies rather than ad-hoc prompting.
 
 - 👀 I have a deep interest in blockchain and AI technology. I'm actively involved in web3 as both a community member, and a builder. Areas of particular interest are DeFi, on-chain identity and verifiable credentials, NFT utility, decentralised storage networks, funding of public goods, and the intersection of blockchain and AI.
 
 - 💞️ I’m looking to collaborate on web3 and/or AI projects in the areas of interest mentioned above.
 
+- 👀 In my latest role I was as a full stack engineer with a crypto iGaming casino and sportsbook startup. It was a multi-Faceted role where I spearheaded the admin dashboard development for managing crypto gaming operations, client accounts, and financial transactions, while also contributing to the consumer frontend (Next.js) and backend microservices (Golang). I pioneered AI-assisted development workflows to accelerate delivery from concept to production,  codifing repetitive patterns into documented, autonomous workflows that maintained production standards. I also erved as web3 subject matter expert, providing education and guidance on crypto / web3 integration, and blockchain operations to team members with limited web3 experience.
+  
 - 👀 My latest project has been the frontend build of a Web3 jobs board with TypeScript, Next.js, and Tailwind CSS utility classes. Algolia search was integrated and used for instant search querying, and for filtering jobs based
 on location, category, type, and years of experience. See: [Web3 Jobs](https://www.web3-jobs.xyz/)
 
