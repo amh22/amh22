@@ -8,9 +8,6 @@
 - 💞️ I’m looking to collaborate on web3 and/or AI projects in the areas of interest mentioned above.
 
 - 👀 In my latest role I was as a full stack engineer with a crypto iGaming casino and sportsbook startup. It was a multi-Faceted role where I spearheaded the admin dashboard development for managing crypto gaming operations, client accounts, and financial transactions, while also contributing to the consumer frontend (Next.js) and backend microservices (Golang). I pioneered AI-assisted development workflows to accelerate delivery from concept to production,  codifing repetitive patterns into documented, autonomous workflows that maintained production standards. I also erved as web3 subject matter expert, providing education and guidance on crypto / web3 integration, and blockchain operations to team members with limited web3 experience.
-  
-- 👀 My latest project has been the frontend build of a Web3 jobs board with TypeScript, Next.js, and Tailwind CSS utility classes. Algolia search was integrated and used for instant search querying, and for filtering jobs based
-on location, category, type, and years of experience. See: [Web3 Jobs](https://www.web3-jobs.xyz/)
 
 - 👀 Recently (Oct 2022 - Jan 2024) I worked as a senior frontend engineer with ANZ (The Australian and New Zealand Banking Group) Digital Asset Services team on a web app that provides institutional clients with real world asset tokenisation, portfolio, and marketplace services for transacting tokenised assets across blockchain networks. For more information on the projects I have worked on please see: https://www.linkedin.com/in/andrew-henry1/
 
