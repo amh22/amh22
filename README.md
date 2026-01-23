@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Drew.
-- Full Stack / Frontend Focused Product Software Engineer designing for human-AI interaction and building AI-native web experiences, with a strong interest in blockchain technology. Experience with product design of complex web apps, from scoping to implementation of solutions to novel and nuanced UI and UX challenges. Works closely with Design and Product to implement vision via rapid prototyping.
+- Full Stack / Frontend Focused Product Software Engineer designing for human-AI interaction and building AI-native web experiences, with a strong interest in blockchain technology.
 
-- Proficient in AI infrastructure adoption and context engineering, with active exploration of Model Context Protocol (MCP) and MCP UI for building AI-native interfaces and rich user experiences that connect models with external data sources and tools. Uses AI for pattern recognition and automation-codifying repetitive tasks into documented workflows that enable autonomous execution to production standards. Approaches AI collaboration through comprehensive documentation and structured methodologies rather than ad-hoc prompting.
+- Experienced in building autonomous AI agents - both product facing (agent-to-UI integration, creating native agentic interfaces that make AI agent capabilities domain-specific and accessible), and as engineering tooling (automating workflows, pattern recognition, and codifying repetitive tasks). Building with Model Context Protocol (MCP) to connect agents with external data sources and tools.
 
 - 👀 I have a deep interest in blockchain and AI technology. I'm actively involved in web3 as both a community member, and a builder. Areas of particular interest are DeFi, on-chain identity and verifiable credentials, NFT utility, decentralised storage networks, funding of public goods, and the intersection of blockchain and AI.
 
