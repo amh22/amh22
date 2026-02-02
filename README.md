@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Drew.
+
+- I built Mosaic where you can ask my AI persona anything about my experience, skills, or projects. Visit [Mosaic](https://mosaic-sepia.vercel.app/)
   
-- Full Stack / Frontend Focused Product Software Engineer designing for human-AI interaction and building AI-native web experiences, with a strong interest in blockchain technology.
+- I'm a Product Software Engineer building Agentic & AI-Native Applications, with a strong interest in blockchain technology.
 
 - Experienced in building autonomous AI agents - both product facing (agent-to-UI integration, creating native agentic interfaces that make AI agent capabilities domain-specific and accessible), and as engineering tooling (automating workflows, pattern recognition, and codifying repetitive tasks). Building with Model Context Protocol (MCP) to connect agents with external data sources and tools.
 
