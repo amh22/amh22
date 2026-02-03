@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drew.
 
-- I built Mosaic where you can ask my AI persona anything about my experience, skills, or projects. Visit [Mosaic](https://mosaic-sepia.vercel.app/)
+- I built Mosaic where you can ask my AI persona anything about my experience, skills, or projects. Visit [Mosaic](https://mosayic.ai)
   
 - I'm a Product Software Engineer building Agentic & AI-Native Applications, with a strong interest in blockchain technology.
 
@@ -14,13 +14,13 @@
 
 - :eyes: Recently (Oct 2022 - Jan 2024) I worked as a senior frontend engineer with ANZ (The Australian and New Zealand Banking Group) Digital Asset Services team on a web app that provides institutional clients with real world asset tokenisation, portfolio, and marketplace services for transacting tokenised assets across blockchain networks. For more information please see [LinkedIn](https://www.linkedin.com/in/andrew-henry1/)
 
-- :robot: I've built a couple of AI-native POCs. One called Mosaic - a platform that transforms static resumes into interactive, queryable personas. The AI speaks in first person, in the owner's voice, with their personality and depth. Visitors ask questions and receive authentic, context-aware responses. Owners edit conversationally ("update my summary to emphasise AI") with an approval flow before changes persist. Give it a try - [Mosaic](https://mosaic-sepia.vercel.app/)
+- :robot: I've built a couple of AI-native POCs. One called Mosaic - a platform that transforms static resumes into interactive, queryable personas. The AI speaks in first person, in the owner's voice, with their personality and depth. Visitors ask questions and receive authentic, context-aware responses. Owners edit conversationally ("update my summary to emphasise AI") with an approval flow before changes persist. Give it a try - [Mosaic](https://mosayic.ai)
 
-- :robot: The other AI-native POC is called Neo - an autonomous AI agent with a web interface that explores and explains any public GitHub codebase through natural language conversation. Go explore [Neo](https://hello-agent-web.vercel.app/)
+- :robot: The other AI-native POC is called Neo - an autonomous AI agent with a web interface that explores and explains any public GitHub codebase through natural language conversation. Go explore [Neo](https://agent-neo.vercel.app/)
   
 - :eyes: I have built a dApp for BricktOrigins by Abnormal Studios - a collection of 5 individual NFTs on the Ethereum blockchain celebrating the history, community, and future of Abnormal Studios. For more details: [Bricktorigins](https://www.gramercystudios.com/work/bricktorigins/)
 
-- 📫 I can be reached via email at andrew@gramercystudios.com, on X @drewzmh, via [LinkedIn](https://www.linkedin.com/in/andrew-henry1/), or you can chat with my AI persona at [Mosaic](https://mosaic-sepia.vercel.app/).
+- 📫 I can be reached via email at andrew@gramercystudios.com, on X @drewzmh, via [LinkedIn](https://www.linkedin.com/in/andrew-henry1/), or you can chat with my AI persona at [Mosaic](https://mosayic.ai).
 
 <!---
 amh22/amh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
