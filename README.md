@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drew.
 
-- I built Mosaic where you can ask my AI persona anything about my experience, skills, or projects. Visit [Mosaic](https://mosayic.ai)
+- I built Mosaic where you can ask my AI persona anything about my experience, skills, or projects. Visit [Mosaic](https://mosayic.ai) or connect your own AI via the [Mosaic MCP Server](https://mcp.mosayic.ai/)
   
 - I'm a Product Software Engineer building Agentic & AI-Native Applications, with a strong interest in blockchain technology.
 
@@ -14,7 +14,7 @@
 
 - :eyes: Recently (Oct 2022 - Jan 2024) I worked as a senior frontend engineer with ANZ (The Australian and New Zealand Banking Group) Digital Asset Services team on a web app that provides institutional clients with real world asset tokenisation, portfolio, and marketplace services for transacting tokenised assets across blockchain networks. For more information please see [LinkedIn](https://www.linkedin.com/in/andrew-henry1/)
 
-- :robot: I've built a couple of AI-native POCs. One called Mosaic - a platform that transforms static resumes into interactive, queryable personas. The AI speaks in first person, in the owner's voice, with their personality and depth. Visitors ask questions and receive authentic, context-aware responses. Owners edit conversationally ("update my summary to emphasise AI") with an approval flow before changes persist. Give it a try - [Mosaic](https://mosayic.ai)
+- :robot: I've built a couple of AI-native POCs. One called Mosaic - a platform that transforms static resumes into interactive, queryable personas. The AI speaks in first person, in the owner's voice, with their personality and depth. Visitors ask questions and receive authentic, context-aware responses. Owners edit conversationally ("update my summary to emphasise AI") with an approval flow before changes persist. Give it a try - [Mosaic](https://mosayic.ai) or connect your own AI via the [Mosaic MCP Server](https://mcp.mosayic.ai/)
 
 - :robot: The other AI-native POC is called Neo - an autonomous AI agent with a web interface that explores and explains any public GitHub codebase through natural language conversation. Go explore [Neo](https://agent-neo.vercel.app/)
   
