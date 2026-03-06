@@ -4,8 +4,7 @@
   
 - I'm a Product Engineer and Technical Lead with 20+ years leading teams across finance, consulting, and engineering. Currently I'm focused on AI-native applications - designing products where AI isn't a feature, it's the architecture.
 
-- I founded and led a distributed product consultancy with teams across Australia, India, the Philippines, and the US, serving international clients. Previously held global leadership roles in financial services (ING Bank, AUM Capital), managing teams and operations across New York, London, and India. I bring the same ownership mentality to engineering: end-to-end product delivery, technical direction, and building teams that ship.
-
+- Most recently a senior engineer at ANZ and Revision3, and founder of a distributed product consultancy (Gramercy Studios) with teams across Australia, India, the Philippines, and the US. Previously held global leadership roles in financial services (ING Bank, AUM Capital), managing teams and operations across New York, London, and India. Brings the same ownership mentality to engineering: end-to-end product delivery, technical direction, and building teams that ship.
 
 - Experienced in building autonomous AI agents - both product facing (agent-to-UI integration, creating native agentic interfaces that make AI agent capabilities domain-specific and accessible), and as engineering tooling (automating workflows, pattern recognition, and codifying repetitive tasks). Building with Model Context Protocol (MCP) to connect agents with external data sources and tools.
 
